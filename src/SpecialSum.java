@@ -9,7 +9,7 @@ public class SpecialSum {
 
         int sum = 0;
         int counter = 1;
-
+        String name = "mahmoud";
         while ( counter <= 100 ){
             if ((counter % 3) != 0 ){
                 sum = sum + counter;

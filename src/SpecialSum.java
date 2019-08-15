@@ -5,7 +5,7 @@ public class SpecialSum {
         int y;
         x = Integer.MAX_VALUE;
         y = Integer.MIN_VALUE;
-
+        int z = 5;
 
         int sum = 0;
         int counter = 1;

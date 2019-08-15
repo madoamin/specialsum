@@ -6,6 +6,7 @@ public class SpecialSum {
         x = Integer.MAX_VALUE;
         y = Integer.MIN_VALUE;
         int z = 5;
+        int a = 2;
 
         int sum = 0;
         int counter = 1;
